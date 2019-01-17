@@ -1,0 +1,9 @@
+/home/nsegen/projects/dotnet/Lab5/Lab5/bin/Debug/netcoreapp2.2/Lab5.deps.json
+/home/nsegen/projects/dotnet/Lab5/Lab5/bin/Debug/netcoreapp2.2/Lab5.dll
+/home/nsegen/projects/dotnet/Lab5/Lab5/bin/Debug/netcoreapp2.2/Lab5.pdb
+/home/nsegen/projects/dotnet/Lab5/Lab5/obj/Debug/netcoreapp2.2/Lab5.csprojAssemblyReference.cache
+/home/nsegen/projects/dotnet/Lab5/Lab5/obj/Debug/netcoreapp2.2/Lab5.csproj.CoreCompileInputs.cache
+/home/nsegen/projects/dotnet/Lab5/Lab5/obj/Debug/netcoreapp2.2/Lab5.AssemblyInfoInputs.cache
+/home/nsegen/projects/dotnet/Lab5/Lab5/obj/Debug/netcoreapp2.2/Lab5.AssemblyInfo.cs
+/home/nsegen/projects/dotnet/Lab5/Lab5/obj/Debug/netcoreapp2.2/Lab5.dll
+/home/nsegen/projects/dotnet/Lab5/Lab5/obj/Debug/netcoreapp2.2/Lab5.pdb
