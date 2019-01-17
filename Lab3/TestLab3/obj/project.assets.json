@@ -5775,11 +5775,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/nsegen/RiderProjects/Lab3/TestLab3/TestLab3.csproj",
+      "projectUniqueName": "/home/nsegen/projects/dotnet/Lab3/TestLab3/TestLab3.csproj",
       "projectName": "TestLab3",
-      "projectPath": "/home/nsegen/RiderProjects/Lab3/TestLab3/TestLab3.csproj",
+      "projectPath": "/home/nsegen/projects/dotnet/Lab3/TestLab3/TestLab3.csproj",
       "packagesPath": "/home/nsegen/.nuget/packages/",
-      "outputPath": "/home/nsegen/RiderProjects/Lab3/TestLab3/obj/",
+      "outputPath": "/home/nsegen/projects/dotnet/Lab3/TestLab3/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -5796,8 +5796,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "/home/nsegen/RiderProjects/Lab3/Lab3/Lab3.csproj": {
-              "projectPath": "/home/nsegen/RiderProjects/Lab3/Lab3/Lab3.csproj"
+            "/home/nsegen/projects/dotnet/Lab3/Lab3/Lab3.csproj": {
+              "projectPath": "/home/nsegen/projects/dotnet/Lab3/Lab3/Lab3.csproj"
             }
           }
         }

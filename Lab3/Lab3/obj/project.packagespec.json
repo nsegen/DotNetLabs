@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/nsegen/RiderProjects/Lab3/Lab3/Lab3.csproj",
+    "projectUniqueName": "/home/nsegen/projects/dotnet/Lab3/Lab3/Lab3.csproj",
     "projectName": "Lab3",
-    "projectPath": "/home/nsegen/RiderProjects/Lab3/Lab3/Lab3.csproj",
-    "outputPath": "/home/nsegen/RiderProjects/Lab3/Lab3/obj/",
+    "projectPath": "/home/nsegen/projects/dotnet/Lab3/Lab3/Lab3.csproj",
+    "outputPath": "/home/nsegen/projects/dotnet/Lab3/Lab3/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/share/dotnet/sdk/NuGetFallbackFolder"
