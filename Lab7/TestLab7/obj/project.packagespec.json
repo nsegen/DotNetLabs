@@ -1,0 +1,59 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/nsegen/projects/dotnet/Lab7/TestLab7/TestLab7.csproj",
+    "projectName": "TestLab7",
+    "projectPath": "/home/nsegen/projects/dotnet/Lab7/TestLab7/TestLab7.csproj",
+    "outputPath": "/home/nsegen/projects/dotnet/Lab7/TestLab7/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "/home/nsegen/projects/dotnet/Lab7/Lab7/Lab7.csproj": {
+            "projectPath": "/home/nsegen/projects/dotnet/Lab7/Lab7/Lab7.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[15.9.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "NUnit3TestAdapter": {
+          "target": "Package",
+          "version": "[3.11.0, )"
+        },
+        "nunit": {
+          "target": "Package",
+          "version": "[3.11.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

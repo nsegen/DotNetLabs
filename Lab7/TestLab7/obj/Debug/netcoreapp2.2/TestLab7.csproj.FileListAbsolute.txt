@@ -1,0 +1,17 @@
+/home/nsegen/projects/dotnet/Lab7/TestLab7/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/home/nsegen/projects/dotnet/Lab7/TestLab7/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/home/nsegen/projects/dotnet/Lab7/TestLab7/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/home/nsegen/projects/dotnet/Lab7/TestLab7/bin/Debug/netcoreapp2.2/TestLab7.deps.json
+/home/nsegen/projects/dotnet/Lab7/TestLab7/bin/Debug/netcoreapp2.2/TestLab7.runtimeconfig.json
+/home/nsegen/projects/dotnet/Lab7/TestLab7/bin/Debug/netcoreapp2.2/TestLab7.runtimeconfig.dev.json
+/home/nsegen/projects/dotnet/Lab7/TestLab7/bin/Debug/netcoreapp2.2/TestLab7.dll
+/home/nsegen/projects/dotnet/Lab7/TestLab7/bin/Debug/netcoreapp2.2/TestLab7.pdb
+/home/nsegen/projects/dotnet/Lab7/TestLab7/bin/Debug/netcoreapp2.2/Lab7.dll
+/home/nsegen/projects/dotnet/Lab7/TestLab7/bin/Debug/netcoreapp2.2/Lab7.pdb
+/home/nsegen/projects/dotnet/Lab7/TestLab7/obj/Debug/netcoreapp2.2/TestLab7.csprojAssemblyReference.cache
+/home/nsegen/projects/dotnet/Lab7/TestLab7/obj/Debug/netcoreapp2.2/TestLab7.csproj.CoreCompileInputs.cache
+/home/nsegen/projects/dotnet/Lab7/TestLab7/obj/Debug/netcoreapp2.2/TestLab7.AssemblyInfoInputs.cache
+/home/nsegen/projects/dotnet/Lab7/TestLab7/obj/Debug/netcoreapp2.2/TestLab7.AssemblyInfo.cs
+/home/nsegen/projects/dotnet/Lab7/TestLab7/obj/Debug/netcoreapp2.2/TestLab7.csproj.CopyComplete
+/home/nsegen/projects/dotnet/Lab7/TestLab7/obj/Debug/netcoreapp2.2/TestLab7.dll
+/home/nsegen/projects/dotnet/Lab7/TestLab7/obj/Debug/netcoreapp2.2/TestLab7.pdb

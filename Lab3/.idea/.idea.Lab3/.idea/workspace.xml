@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4cef137c-2ddc-452d-80a5-70aabb8c2ceb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab3/action/BoolVectorAction.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Lab3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lab3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/obj/Debug/netcoreapp2.2/Lab3.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/obj/Debug/netcoreapp2.2/Lab3.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/obj/Lab3.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/obj/Lab3.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/obj/Lab3.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/obj/Lab3.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestLab3/obj/Debug/netcoreapp2.2/TestLab3.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestLab3/obj/Debug/netcoreapp2.2/TestLab3.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestLab3/obj/Debug/netcoreapp2.2/TestLab3.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestLab3/obj/Debug/netcoreapp2.2/TestLab3.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestLab3/obj/TestLab3.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestLab3/obj/TestLab3.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestLab3/obj/TestLab3.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/TestLab3/obj/TestLab3.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestLab3/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/TestLab3/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestLab3/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TestLab3/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab5/.idea/.idea.Lab5/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab5/.idea/.idea.Lab5/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab5/.idea/.idea.Lab5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab5/.idea/.idea.Lab5/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4cef137c-2ddc-452d-80a5-70aabb8c2ceb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,10 +9,43 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TestLab3/TestVector.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="20" column="63" lean-forward="true" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
+              <folding>
+                <marker date="1547758117392" expanded="true" signature="6:126" ph="..." />
+                <marker date="1547758117392" expanded="true" signature="143:3249" ph="{...}" />
+                <marker date="1547758117392" expanded="true" signature="168:3247" ph="{...}" />
+                <marker date="1547758117392" expanded="true" signature="265:680" ph="{...}" />
+                <marker date="1547758117392" expanded="true" signature="335:669" ph="{...}" />
+                <marker date="1547758117392" expanded="true" signature="736:1018" ph="{...}" />
+                <marker date="1547758117392" expanded="true" signature="1081:1613" ph="{...}" />
+                <marker date="1547758117392" expanded="true" signature="1107:1304" ph="{...}" />
+                <marker date="1547758117392" expanded="true" signature="1345:1460" ph="{...}" />
+                <marker date="1547758117392" expanded="true" signature="1493:1603" ph="{...}" />
+                <marker date="1547758117392" expanded="true" signature="1668:1950" ph="{...}" />
+                <marker date="1547758117392" expanded="true" signature="2013:2545" ph="{...}" />
+                <marker date="1547758117392" expanded="true" signature="2039:2236" ph="{...}" />
+                <marker date="1547758117392" expanded="true" signature="2277:2392" ph="{...}" />
+                <marker date="1547758117392" expanded="true" signature="2425:2535" ph="{...}" />
+                <marker date="1547758117392" expanded="true" signature="2597:2885" ph="{...}" />
+                <marker date="1547758117392" expanded="true" signature="2945:3065" ph="{...}" />
+                <marker date="1547758117392" expanded="true" signature="3123:3241" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/TestLab3/TestVector.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -61,6 +78,23 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="Lab3" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Lab3" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Lab3" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Lab3" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="action" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Lab3" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Lab3" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="model" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Lab3" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="TestLab3" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
@@ -118,12 +152,12 @@
       <option name="presentableId" value="Default" />
       <updated>1547743846354</updated>
       <workItem from="1547743852299" duration="1900000" />
-      <workItem from="1547757850520" duration="242000" />
+      <workItem from="1547757850520" duration="420000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2142000" />
+    <option name="totallyTimeSpent" value="2320000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -136,8 +170,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25320512" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25320512" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -153,7 +188,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info active="true" anchor="bottom" id="Unit Tests" order="11" visible="true" weight="0.32894737" />
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="14" weight="0.32894737" />
@@ -183,6 +218,39 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Lab3/model/BoolVector.cs" />
     <entry file="file://$PROJECT_DIR$/Lab3/Properties/AssemblyInfo.cs" />
-    <entry file="file://$PROJECT_DIR$/TestLab3/TestVector.cs" />
+    <entry file="file://$PROJECT_DIR$/TestLab3/TestSet.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestLab3/TestVector.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="63" lean-forward="true" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
+          <folding>
+            <marker date="1547758117392" expanded="true" signature="6:126" ph="..." />
+            <marker date="1547758117392" expanded="true" signature="143:3249" ph="{...}" />
+            <marker date="1547758117392" expanded="true" signature="168:3247" ph="{...}" />
+            <marker date="1547758117392" expanded="true" signature="265:680" ph="{...}" />
+            <marker date="1547758117392" expanded="true" signature="335:669" ph="{...}" />
+            <marker date="1547758117392" expanded="true" signature="736:1018" ph="{...}" />
+            <marker date="1547758117392" expanded="true" signature="1081:1613" ph="{...}" />
+            <marker date="1547758117392" expanded="true" signature="1107:1304" ph="{...}" />
+            <marker date="1547758117392" expanded="true" signature="1345:1460" ph="{...}" />
+            <marker date="1547758117392" expanded="true" signature="1493:1603" ph="{...}" />
+            <marker date="1547758117392" expanded="true" signature="1668:1950" ph="{...}" />
+            <marker date="1547758117392" expanded="true" signature="2013:2545" ph="{...}" />
+            <marker date="1547758117392" expanded="true" signature="2039:2236" ph="{...}" />
+            <marker date="1547758117392" expanded="true" signature="2277:2392" ph="{...}" />
+            <marker date="1547758117392" expanded="true" signature="2425:2535" ph="{...}" />
+            <marker date="1547758117392" expanded="true" signature="2597:2885" ph="{...}" />
+            <marker date="1547758117392" expanded="true" signature="2945:3065" ph="{...}" />
+            <marker date="1547758117392" expanded="true" signature="3123:3241" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
